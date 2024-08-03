@@ -1,2 +1,5 @@
-# Safe-URL-Checker
-This is website which help us to verify whether the provide website is safe or not for the use.
+# SafeURL Frontend
+
+This is the repository for the Frontend of the SafeUrl website. This website is used to Check and Report the Unsafe URL.
+
+The freamework used is ReactJS.
